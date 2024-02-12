@@ -1,4 +1,4 @@
-image["dl.png"]
+
 # differentloot.fn
 
 - Different loot is a useful Fortnite website for the best recommended loadout and places to go by yourself, duos or trios.
