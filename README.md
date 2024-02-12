@@ -5,3 +5,5 @@
 
 - [Different Loot Discord](https://discord.com/invite/J6n7NY6Gt5) 
 - [Different Loot Web](http://tinyurl.com/differentlootFN) 
+
+___any reports on the map please report at our discord server.___
